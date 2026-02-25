@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Diseño del controlador'
+message: Modelado de sistemas fisiologicos/Ingenieria biomedica
+type: software
+authors:
+  - given-names: Victor Silvano
+    family-names: Dino Seanez
+    email: l20211964@tijuana.tecnm.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/Dino20211964/MSFPractica1'
+    description: Repositorio Github
+repository-code: 'https://github.com/Dino20211964/MSFPractica1'
+keywords:
+  - Diseño de controlado
+  - Circuito RLC
+  - Controlador PID
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+commit: '1.0'
+date-released: '2026-02-24'
