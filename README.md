@@ -3,7 +3,7 @@
 
 ## Información de la estudiante
 
-Victor Silvano Dino Seañez \[20211964]; l20211964@tectijuana.edu.mx
+Victor Silvano Dino Seañez \[20211964]; l20211964@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
